@@ -28,5 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Norman Reedus
 6. Zendaya Maree Stoermer Coleman
 7. Hiroshi Abe
-
-
+8. Masaki Suda
