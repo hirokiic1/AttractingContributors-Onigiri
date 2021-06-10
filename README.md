@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Hiroshi Abe
 8. Masaki Suda
 9. Tatsuya Fujiwara
+10. Mckenna Grace
