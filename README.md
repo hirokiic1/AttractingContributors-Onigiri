@@ -32,3 +32,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Tatsuya Fujiwara
 10. Mckenna Grace
 11. Shin'ichi Tsutsumi 
+12. Jude law
