@@ -32,3 +32,4 @@ Please tell me. You CAN add one which has been already added.
 9. 焼きたらこ
 10. Japanese apricot(うめ)
 11. Shio-musubi
+12. mentaiko
